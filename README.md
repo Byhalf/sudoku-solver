@@ -1,4 +1,4 @@
-accepts content from the standard input, the format of it must be
+accepts content from the standard input, the format of it must be (same as the gutenbergchallenge format)
 
 <name>
 003020600
